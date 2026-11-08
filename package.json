@@ -1,0 +1,14 @@
+{
+  "name": "the-comunicators-edge",
+  "version": "1.0.0",
+  "description": "30-Day Communication Practice System",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build step required'",
+    "lint": "echo 'No linting configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
